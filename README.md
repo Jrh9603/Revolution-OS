@@ -1,6 +1,6 @@
 # Revolution-OS
 
-Revolution OS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=200 hight=200>
 
 The film begins with an IPO, and then the historical stage is set by showing the beginnings of software development back to the time when software was shared on paper tape for the price of the paper itself. It then moves to Bill Gates’ Open Letter to Hobbyists in which he asked Computer Hobbyists to not share, but to buy software. Witch started a movement where they didn’t want to buy proprietary software they wanted free software for everyone had the source code 
 This movie was about the founding of GNU and Linux open software and the men that made it happen.

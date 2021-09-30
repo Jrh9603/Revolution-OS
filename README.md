@@ -1,6 +1,6 @@
 # Revolution-OS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=200 hight=200>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width=200 hight=200> <img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2019/05/old-red-hat-logo.png" width=300 hight=300>
 
 The film begins with an IPO, and then the historical stage is set by showing the beginnings of software development back to the time when software was shared on paper tape for the price of the paper itself. It then moves to Bill Gates’ Open Letter to Hobbyists in which he asked Computer Hobbyists to not share, but to buy software. Witch started a movement where they didn’t want to buy proprietary software they wanted free software for everyone had the source code 
 This movie was about the founding of GNU and Linux open software and the men that made it happen.
@@ -18,6 +18,8 @@ BRUCE PERENS
 
 ERIC RAYMOND
 >Raymond authored the paper "The Cathedral and the Bazaar" which brought outside attention and understanding to the sociological underpinnings of the Open Source movement.
+
+<img src="https://miro.medium.com/max/1200/1*6rDcIgFJQldloIERiUSmzw.png" width=200 hight=200>
 
 BRIAN BEHLENDORF
 >Behlendorf is one of the original co-developers of the Apache Web Server. Apache is the most commonly used web server in the world with almost 60% of the market. Apache was the first "killer app" for Linux.

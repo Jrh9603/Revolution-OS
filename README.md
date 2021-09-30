@@ -1,6 +1,7 @@
 # Revolution-OS
 
 Revolution OS
+
 The film begins with an IPO, and then the historical stage is set by showing the beginnings of software development back to the time when software was shared on paper tape for the price of the paper itself. It then moves to Bill Gates’ Open Letter to Hobbyists in which he asked Computer Hobbyists to not share, but to buy software. Witch started a movement where they didn’t want to buy proprietary software they wanted free software for everyone had the source code 
 This movie was about the founding of GNU and Linux open software and the men that made it happen.
 It is impressive to know about their great desire to make internet and software accessible to everyone without being charged with huge amount of money. When Richard Stallman said, “If I will develop an operating system I will make it free for everyone” it very rare to have a business not money hungry and just make a nice product and make it free here are some descriptions of the men who made up this money and their long long journey from just 1 end user to millions and millions of end users using Linux. 
